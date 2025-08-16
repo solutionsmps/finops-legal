@@ -1,0 +1,27 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Launch – SolutionsMPS</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <style>
+    body{font-family:system-ui,Arial,sans-serif;max-width:700px;margin:40px auto;padding:0 16px;line-height:1.6;text-align:center}
+    a.button{display:inline-block;margin-top:20px;padding:12px 20px;background:#2ca01c;color:#fff;text-decoration:none;border-radius:6px;font-weight:600}
+    a.button:hover{background:#248f16}
+    footer{margin-top:30px;font-size:0.9em}
+  </style>
+</head>
+<body>
+  <h1>Welcome to SolutionsMPS</h1>
+  <p>To get started, connect your QuickBooks Online account to SolutionsMPS.</p>
+
+  <a class="button" 
+     href="https://appcenter.intuit.com/connect/oauth2?client_id=[YOUR_CLIENT_ID]&response_type=code&scope=com.intuit.quickbooks.accounting%20openid%20email%20profile&redirect_uri=[YOUR_REDIRECT_URI]&state=randomCSRF123">
+     Connect to QuickBooks
+  </a>
+
+  <footer>
+    <p><a href="./eula.html">End User Licence Agreement</a> | <a href="./privacy.html">Privacy Policy</a></p>
+  </footer>
+</body>
+</html>
