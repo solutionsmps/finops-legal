@@ -4,10 +4,9 @@ This repository hosts the public-facing legal and compliance pages required for 
 These pages are served via GitHub Pages and are referenced in our Intuit App Store listing and app review process.
 
 ## Pages
-
+- [Launch Page](https://solutionsmps.github.io/finops-legal/launch.html)  
 - [End User Licence Agreement](https://solutionsmps.github.io/finops-legal/eula.html)  
 - [Privacy Policy](https://solutionsmps.github.io/finops-legal/privacy.html)  
-- [Launch Page](https://solutionsmps.github.io/finops-legal/launch.html)  
 - [Disconnect Page](https://solutionsmps.github.io/finops-legal/disconnect.html)  
 
 ## Purpose
