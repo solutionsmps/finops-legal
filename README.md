@@ -1,5 +1,3 @@
-# finops-legal
-
 # SolutionsMPS finops Legal Pages
 
 This repository hosts public legal and compliance pages required for the SolutionsMPS QuickBooks Online integration:
